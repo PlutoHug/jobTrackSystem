@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "name": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "community": "计算机金融",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 2,
+      "name": "北京思特奇股份有限公司",
+      "city": "北京",
+      "community": "计算机金融",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 3,
+      "name": "大连华宇科技有限公司",
+      "city": "大连",
+      "community": "通信行业",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "暂停合作",
+      "position": "Java开发"
+    },
+    {
+      "id": 4,
+      "name": "成都银海软件科技有限公司",
+      "city": "成都",
+      "community": "通信行业",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 5,
+      "name": "山东国子科技有限公司",
+      "city": "济南",
+      "community": "金融行业",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 6,
+      "name": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "community": "金融行业",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "暂停合作",
+      "position": "Java开发"
+    },
+    {
+      "id": 7,
+      "name": "山东大通科技有限公司",
+      "city": "青岛",
+      "community": "金融行业",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 8,
+      "name": "山东大通科技有限公司",
+      "city": "青岛",
+      "community": "物联网",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    },
+    {
+      "id": 9,
+      "name": "大连华宇科技有限公司",
+      "city": "大连",
+      "community": "物联网",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "暂停合作",
+      "position": "Java开发"
+    },
+    {
+      "id": 10,
+      "name": "成都银海软件科技有限公司",
+      "city": "成都",
+      "community": "物联网",
+      "manager": "刘海海",
+      "tel": "15012312312",
+      "coState": "合作中",
+      "position": "Java开发"
+    }
+  ]
+}

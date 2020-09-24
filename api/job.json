@@ -1,0 +1,47 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 5,
+  "data": [
+    {
+      "id": 1,
+      "name": "北京柯蓝科技有限公司",
+      "manager": "刘海海",
+      "teacher": "张三",
+      "time": "2020-03",
+      "address": "北京"
+    },
+    {
+      "id": 2,
+      "name": "北京思特奇股份有限公司",
+      "manager": "刘海海",
+      "teacher": "张三",
+      "time": "2020-03",
+      "address": "北京"
+    },
+    {
+      "id": 3,
+      "name": "大连华宇科技有限公司",
+      "manager": "刘海海",
+      "teacher": "张三",
+      "time": "2020-03",
+      "address": "大连"
+    },
+    {
+      "id": 4,
+      "name": "成都银海软件科技有限公司",
+      "manager": "刘海海",
+      "teacher": "张三",
+      "time": "2020-03",
+      "address": "成都"
+    },
+    {
+      "id": 5,
+      "name": "山东国子科技有限公司",
+      "manager": "刘海海",
+      "teacher": "张三",
+      "time": "2020-03",
+      "address": "青岛"
+    }
+  ]
+}
